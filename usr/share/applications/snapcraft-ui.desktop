@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Snapcraft Store
+Comment=Tienda Snapcraft para la instalacion de programas snap de forma simple.
+Exec=python3 /usr/bin/snapcraft/snapcraft-ui.py
+Icon=/usr/share/icons/hicolor/scalable/apps/snapcraft-ui.png
+StartupWMClass=snapcraft-ui
+Type=Application
+Categories=System;
