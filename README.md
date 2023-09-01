@@ -17,3 +17,6 @@ python3-pyqt5 (sudo apt install python3-pyqt5)
 python3-pyqt5.qtwebengine (sudo apt install python3-pyqt5.qtwebengine)
 
 python3-tk (sudo apt-get install python3-tk)
+
+
+©krafairus, Todos Los Derechos Reservados. Creado por krafairus. Bajo la licencia MIT.
